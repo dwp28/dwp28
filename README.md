@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Daniel%20Willson%20Pastor&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%C2%B7%20AI%20%26%20Machine%20Learning&descSize=18&descAlignY=60" width="100%" alt="Header banner"/>
+type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Daniel%20Willson%20Pastor&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%C2%B7%20AI%20%26%20Machine%20Learning&descSize=18&descAlignY=60" width="100%" alt="Header banner"/>
 </p>
 
 <p align="center">
@@ -19,15 +19,15 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Hi, I'm **Daniel Willson Pastor** — a 4th-year **Computer Engineering** student at **[UNIE Universidad](https://www.universidadunie.com/)** in Madrid, Spain 🇪🇸.
 
-I'm driven by **Artificial Intelligence** — machine learning, deep learning, LLMs and AI agents — and by the engineering side of building real systems: architecture, data, and software project management. I like turning ideas into working products, from CNN experiments in Colab to full web apps used live at a national tournament.
+I'm driven by **Artificial Intelligence** — machine learning, deep learning, automations, LLMs and AI agents — and by the engineering side of building real systems: architecture, data, and software project management. I like turning ideas into working products, from CNN experiments in Colab to full web apps used live at an official national tournament.
 
-- 🎓 **Studying:** B.Sc. in Computer Engineering @ UNIE (2023 – 2027) · GPA **8.49 / 10**
+- 🎓 **Studying:** B.Sc. in Computer Engineering @ UNIE (2023 – 2027)
 - 🔭 **Focus:** Machine Learning · Deep Learning · LLMs & AI agents · Data · Software Development
-- 🛠️ **Working style:** analytical, structured, agile — and heavy use of AI-assisted development and prompt engineering
+- 🛠️ **Working style:** analytical, structured, agile — and heavy use of AI-assisted and agents development and prompt engineering
 - 🌐 **Languages:** Spanish (native) · English (advanced) · French (basic)
 - 💼 **Currently looking for:** an **internship** in AI, data, or software development where I can contribute and grow
 
@@ -196,7 +196,6 @@ A real-time web app that **replaced the federation's manual Excel sheets**, lett
 ## 🌱 Beyond Code
 
 - 🏕️ **Summer camp volunteer** (Sittingbourne, UK, 2025) — supported daily activities with children, working in English with kids and staff.
-- 🎭 **Amateur theatre · El Capricho Joven** (2024 – 2026) — annual public historical performance for three years; public speaking is a skill I genuinely enjoy.
 
 ---
 
