@@ -1,11 +1,9 @@
 <!-- ===================== HEADER ===================== -->
-<p align="center">
-type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Daniel%20Willson%20Pastor&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%C2%B7%20AI%20%26%20Machine%20Learning&descSize=18&descAlignY=60" width="100%" alt="Header banner"/>
-</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Daniel%20Willson%20Pastor&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20-%20Artificial%20Intelligence&descSize=18&descAlignY=60" width="100%" alt="Header banner"/> </p>
 
 <p align="center">
   <a href="https://github.com/dwp28">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=4FC3F7&center=true&vCenter=true&width=700&lines=Hi!+I'm+Daniel+%F0%9F%91%8B;Computer+Engineering+Student+%40+UNIE+University;Passionate+about+AI%2C+ML+%26+LLMs+%F0%9F%A4%96;Looking+for+an+internship+in+AI+%26+Data+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=4FC3F7&center=true&vCenter=true&width=700&lines=Hi!+I'm+Daniel+%F0%9F%91%8B;Computer+Science+Student;Passionate+about+AI%2C+ML+%26+LLMs+%F0%9F%A4%96;Looking+to+improve+in+AI+%26+Data+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
